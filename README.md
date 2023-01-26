@@ -8,7 +8,7 @@
   - Condição de derrota quando a vida chega a zero.
 ![image](https://user-images.githubusercontent.com/66040089/214444165-8c4504ef-f571-4aa4-ac23-8020570d85fd.png)
 
-### Módulo 6 - Programação visual
+### Módulo 6 - HUD e Interface
 - Comecei a criar o design da HUD usando o conhecimento aprendido até aqui
   - HUD principal de overlay do jogo;
   - Tela de vitória;
